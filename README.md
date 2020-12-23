@@ -16,13 +16,18 @@ Assets		README.md	contact.html	index.html	portfolio.html
     Background is a sunset in Hawaii
     Photo of Me and Descriptive Bio
     url:file:///Users/shereebritt/Desktop/Homework/homework2/index.html
+    <img src="./Assets/Images/Screen_About_Me">
+
 5. Contact html: includes my name and navigation banner:Contact/Portfolio/About. Contact is Active on this page
     Form included for entering Name, Email, and message with a submit button
     url:file:///Users/shereebritt/Desktop/Homework/homework2/contact.html
+    <img src="./Assets/Images/Screen_Contact">
+
 6. Portfolio html: includes a background image of HBCUs (Historically Black College & Universities) and navigation banner:Contact/Portfolio/About. Portfolio is Active on this page
     Photos: Support Black Colleges, FAMU, FAMU marching Band and Famu Alumni and a photo of me in the center
     Rows, Containers, padding used to display photos
     url:file:///Users/shereebritt/Desktop/Homework/homework2/portfolio.html
+    <img src="./Assets/Images/Screen_Portfolio">
 
 7. Functional, deployed application
     All links must work.
